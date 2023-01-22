@@ -74,4 +74,9 @@ Using flags and length tags:
 ------------
 
 
+### Authors
+Adjamkwalim Akum-Yong and Cleopatra Kadzinga.
 
+------------
+
+### End
