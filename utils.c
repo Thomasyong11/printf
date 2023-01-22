@@ -1,11 +1,14 @@
 #include "main.h"
 
 /**
- * is_printable - Evaluates if a char is printable
- * @c: Char to be evaluated.
+ * get_precision - Calculates the precision for printing
+ * @format: Formatted string in which to print the arguments
+ * @i: List of arguments to be printed.
+ * @list: list of arguments.
  *
- * Return: 1 if c is printable, 0 otherwise
+ * Return: Precision.
  */
+
 int is_printable(char c)
 {
 	if (c >= 32 && c < 127)
