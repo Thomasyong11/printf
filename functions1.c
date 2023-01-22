@@ -1,8 +1,8 @@
 #include "main.h"
 
-/****************** PRINT POINTER ******************/
+/************************* PRINT UNSIGNED NUMBER *************************/
 /**
- * print_pointer - Prints the value of a pointer variable
+ * print_unsigned - Prints an unsigned number
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
